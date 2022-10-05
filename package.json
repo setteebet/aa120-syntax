@@ -1,0 +1,18 @@
+{
+  "name": "aa120-syntax",
+  "theme": "syntax",
+  "version": "0.1.1",
+"description": "หวยบาทละ100✔️ ❤️ ♕ เว็บหวยออนไลน์ มีหวยให้เล่นครบทุกชนิด ตลอด 24 ชั่วโมง",
+"keywords": [
+"หวยบาทละ100",
+"เว็บหวยลาวออนไลน์",
+"lottovip ดีไหม",
+"วิธีหวย",
+"lottovipclick"
+],
+  "repository": "https://github.com/setteebet/aa120-syntax.git",
+  "license": "MIT",
+  "engines": {
+"atom": ">=1.0.0 <2.0.0"
+}
+}
